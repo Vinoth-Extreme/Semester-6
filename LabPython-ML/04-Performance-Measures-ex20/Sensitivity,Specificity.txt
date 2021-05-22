@@ -1,0 +1,12 @@
+TP - True Positive
+FP - False Positive
+TN - True Negative
+FN - False Negative
+
+* Sensitivity is similar to Recall.
+
+Sensitivity = TP / (TP + FN)
+****************************
+
+Specificity = TN / (TN + FP)
+****************************

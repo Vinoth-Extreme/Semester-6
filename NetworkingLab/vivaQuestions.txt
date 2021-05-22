@@ -1,0 +1,5 @@
+Types of port nummbers and numbers:
+
+registered port numbers - 0 - 1024
+fixed port number - Eg. telnet uses 63, http uses 8080
+efimeral port numbers 0 - 65305 ports

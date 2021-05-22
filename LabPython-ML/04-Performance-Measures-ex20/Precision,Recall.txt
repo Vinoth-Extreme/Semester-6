@@ -1,0 +1,12 @@
+TP - True Positive
+FP - False Positive
+TN - True Negative
+FN - False Negative
+
+Precision = TP / (TP + FP)
+**************************
+
+Recall = TP / (TP + FN)
+***********************
+
+* Both Precision and Recall should be high for a good model.

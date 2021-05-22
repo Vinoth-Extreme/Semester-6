@@ -1,0 +1,8 @@
+rF=c(10, 15, 26, 35, 10, 85, 21, 46, 46, 99, 64, 11)
+tsMonthlyData = ts(rF, start = 2001, frequency = 12)
+tsQuarterlyData = ts(rF, start = 2001, end = 2002, frequency = 4)
+tsYearlyData = ts(rF, start = 2001, frequency = 1)
+# print(tsMonthlyData)
+# print(tsQuarterlyData)
+print(tsYearlyData)
+#plot(tsMonthlyData)

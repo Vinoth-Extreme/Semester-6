@@ -1,0 +1,19 @@
+3. Statistical Analysis
+    3.1. Descriptive statistics
+              - Data set can be described / summerized by using the descriptive statistics
+              - 2 measures. 
+                    - 1. Measures of central tendancy
+                          - describes about the center position of the distribution
+                            *. mean
+                            *. median
+                            *. mode
+                    - 2. Measures of dispersion or variability
+                          *. standard deviation or varince
+                          *. minimum and maximum variables or range
+    3.2. Regression
+	      - Establish a relationship model b/w two variables (Predictive and Responsive variable).
+	      - eg. y = mx + c
+			- here, y = predictor variable
+				x = responsive variable
+	      - lm() is the function used to create linear regression model
+	      - predict() is used to predict values.

@@ -1,0 +1,41 @@
+					Data Warhouse
+					**************
+   					    Unit-1
+					    ******
+Properties of warhouse(4): subject oriented. integrated. non-volatile. time-variant.
+*************************
+Differecnces between OLAP & OLTP:
+*********************************
+Handles: Missing data, data consolidation
+*******
+Concept Hierarchy: Lower level primitives are converted to Higher level concepts.
+*****************
+Types of Schema: star, snowflake, galaxy schemas
+****************
+OLAP operations: Roll up, Drill down, Slice, Dice, Pivot
+***************
+Warhouse Architecture(Three tier Architecture): front-end, back-end utilities, stagging-area
+***********************************************
+Backend-utilities: ETL(Extract, Transform, Load + Cleaning, Refresh) process
+******************
+Normalization Range: -1 to 1
+*******************
+	
+					  Unit-2
+					  ******
+Data Mining: The practice of analysing large databases in order to generate new information.
+***********
+KDD(Knowledge Discovery Process): 7-steps:
+********************************
+	1. Goal setting
+	2. Selection & Integration
+	3. Cleaning & Preprocessing
+	4. Transformation
+	5. Mining
+	6. Pattern Evaluation
+	7. Knowledge Discovery
+
+Association analysis:
+*********************
+	1. Apriori algorithm
+	2. FP-Growth tree algorithm

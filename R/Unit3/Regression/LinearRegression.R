@@ -1,0 +1,6 @@
+x = c(31, 24, 10, 57, 38)
+y = c(12, 53, 12, 90, 45)
+model = lm(y ~ x)
+z = data.frame(x = 57)
+predicted_value = predict(model, z)
+print(predicted_value)

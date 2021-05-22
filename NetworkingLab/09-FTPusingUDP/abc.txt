@@ -1,0 +1,2 @@
+a test text file to get the text into the test program
+Hello there!

@@ -1,0 +1,33 @@
+1 Mark Questions
+
+1. Back propagation algorithm is to develop learning algorithm for multi layer fee forward newral network.
+	So that network can be trained to cature the mapping implicitely.
+   
+
+2. Disadvantage of decision tree
+	I. Robust outlier
+	II. thrown to Overfit --- (Correct)
+
+3. Bayesian classifiers are statistical classifiers they can predict 
+	I. bits of knowledge
+	II. membership propeblities ---- (Correct)
+	III. fuzzy set approach
+
+4. Which of following are not example of ensemble () algorithm,
+	I. Decision tree ---- (Correct)
+	II. RF
+
+5. If linear regression models predicts that train error is 0,
+	Ans:	No test error
+
+6. Which metric is used for evaluating regression model
+	I. RMSE
+	II. MSE
+	III. MAE
+	IV. ALL (Correct)
+
+7. in Regression model, more than 1 independant variables,
+	called Multiple linear regression
+
+8. Baysian network used to access queries using
+	Join distribution

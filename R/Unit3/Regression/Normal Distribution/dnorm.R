@@ -1,0 +1,5 @@
+x <- c(1, 2, 3, 4, 5, 6, 7, 8)
+mn <- mean(x)
+sd <- sd(x)
+p = print(dnorm(x, mn, sd))
+plot(x, p)

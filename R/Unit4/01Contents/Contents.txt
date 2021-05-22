@@ -1,0 +1,18 @@
+Unit 4
+******
+Machine Learning
+****************
+
+Unsupervised Learning
+	1. Classification
+		1. Decision Tree - ctree() from "party"
+		2. SVM - svm() from "e1071"
+		3. Random Forest - randomForest() from "randomForest"
+
+	2. Clustering
+		1. Kmeans - kemans() from "cluster"
+
+Association Rule Mining
+	1.Apriori - apriori() from "arules"
+
+Outliers - can be donw with boxplot

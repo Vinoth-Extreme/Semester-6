@@ -1,0 +1,52 @@
+Unit III
+********
+
+1. Descriptive statistics - to describe the data
+	Measures of central tendancy
+		1. Mean - mean()
+		2. Median - median()
+		3. Mode - value occurs frequently in a dataset. Based on Number of Modes,
+			1. uni model
+			2. Bi model
+			3. Tri model
+			4. Multi model
+
+	Measures of dispersion - How data is deviated from the mean
+		1. Standard Deviation - sd()
+		2. Varianve
+		3. IQR (Inter Quartile Range) (5 Number Summary) (Q3 - Q1)
+
+2. Distribution
+	Normal Distribution - to check data are normally distributed
+		** if mean = 0, sd = 1, then this normal distribution is "Standard Normal Distribution".
+		1. dnorm(dataset, mean, sd) - Propability value for each data
+		2. pnorm(dataset, mean, sd) - normal value to Cumulative Propability Density value for each data
+		3. qnorm(dataset, mean, sd) - Cumulative Propability values to normal values
+		4. rnorm(dataset, mean, sd) - to generate random normally distributed data.
+
+	Binomial Distribution - only when two possible outcomes.
+		1. dbinorm()
+		2. pbinorm()
+		3. qbinorm()
+		4. rbinorm()
+
+3. Regression Analysis - when to find relationship between variables
+	Simple linear regression 
+		-> y = ax + b
+		-> lm(formula, data)
+			-> formula -- Predictor Variable ~ indipendant Variable
+			-> data -- for what the prediction is to be done.
+		
+	Multiple 
+		-> y = a1x1 + a2x2 + ... + b
+		-> 
+
+	Logistic Regression 
+		-> When data is categorical. Range should be from 0 to 1 only.
+		-> glm()
+
+4. Time Series Analysis
+	-> arima()
+	-> ts()
+
+5. Anova - aov()

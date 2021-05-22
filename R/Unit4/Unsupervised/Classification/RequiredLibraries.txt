@@ -1,0 +1,4 @@
+install.packages("party") # for decision trees
+install.packages("caTools") # for machine learning algorithms
+install.packages("randomForest") # for random forest algorithm
+install.packages("e1071") # Support Vector Machine algorithm

@@ -1,0 +1,25 @@
+Temperature 
+	- temperature in Kelvin
+
+L 
+	- Relative Luminosity
+	- Amount of light energy emitted by an object per unit time at any piont of its surface.
+		Light energy values are normalized from 0 to 1
+
+R 
+	- Relative Radius
+	- Radius of an object
+
+A_M 
+	- Absolute Magnitude
+	- The absolute magnitude of a star is defined as the magnitude 
+		it would have if it were viewed at a standard distance 
+		of 10 parsecs (32.6 light-years). Since the apparent visual magnitude of the 
+		Sun is −26.75, its absolute magnitude corresponds 
+		to a diminution in brightness…
+
+Color - Color of the star
+
+Spectral_Class
+
+Type - 0-5
